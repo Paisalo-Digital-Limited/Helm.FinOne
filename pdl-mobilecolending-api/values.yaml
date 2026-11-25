@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: ghcr.io/paisalo-digital-limited/pdl-mobilecolending-api
   pullPolicy: IfNotPresent
-  digest: "sha256:e7804dc77c320a121086877a5005946f7f210d0ff86a566b5edf4c02ffc9f981"
+  digest: "sha256:5238ee567d1f2e9d07acb34477a4cdd74c0899bbb79f88fafd3a9cf0c3764d8b"
   tag: ""
 
 imagePullSecrets:

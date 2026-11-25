@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: ghcr.io/paisalo-digital-limited/pdl-rcpostingfirst-api
   pullPolicy: IfNotPresent
-  digest: "sha256:1470a2bb70d161b516f34d0ecc6c328ea1b8d5c089915599241b84cab3c7f146"
+  digest: "sha256:3e3fab7061093af86997ea4f4fe3de1955a1733006b10b1b539904537aad8568"
   tag: ""
 
 imagePullSecrets:
